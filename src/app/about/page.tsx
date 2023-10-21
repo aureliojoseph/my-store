@@ -8,8 +8,8 @@ export default function AboutPage() {
         <p>Hi! My name is Aurelio and I am a Frontend Engineer from Brazil.</p>
 
         <p>
-          This is my Fake Store e-commerce app. I've created it as a practice
-          project for improving my skills as a Frontend Engineer.
+          This is my Fake Store e-commerce app. I&apos;ve created it as a
+          practice project for improving my skills as a Frontend Engineer.
         </p>
 
         <p>Here you will find some cool features like:</p>
@@ -41,9 +41,9 @@ export default function AboutPage() {
       <div className="flex flex-col gap-1 pb-5">
         <h4 className="text-xl font-bold">Fake Store API Integration</h4>
         <p>
-          The project's base is handling data with API calls and data platform.
-          This API provides various endpoints for practicing API integration and
-          fetching e-commerce data.
+          The project&apos;s base is handling data with API calls and data
+          platform. This API provides various endpoints for practicing API
+          integration and fetching e-commerce data.
         </p>
       </div>
 
