@@ -94,4 +94,4 @@ Contributions to this project are welcome. Feel free to open issues or create pu
 
 ## Deployed on Vercel
 
-This Next.js app was deployed on [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
+This Next.js app was deployed on [Vercel Platform](https://vercel.com/).
