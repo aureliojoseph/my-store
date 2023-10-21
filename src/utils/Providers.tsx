@@ -9,11 +9,16 @@ export default function Providers({ children }: any) {
 
   useEffect(() => {
     setMounted(true);
+    document.documentElement.classList.add("dark");
   }, []);
 
   if (!mounted) {
     return <Loading />;
   }
 
-  return <ThemeProvider attribute="class">{children}</ThemeProvider>;
+  return (
+    <ThemeProvider defaultTheme="dark" attribute="class">
+      {children}
+    </ThemeProvider>
+  );
 }
