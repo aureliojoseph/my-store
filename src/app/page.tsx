@@ -3,7 +3,7 @@ import { IoIosArrowRoundDown } from "react-icons/io";
 
 export default function Home() {
   return (
-    <main className="w-full bg-white p-8 dark:bg-black md:p-14 lg:p-20">
+    <main className="h-screen w-full bg-white p-8 dark:bg-black md:p-14 lg:p-20">
       <div className="flex flex-col items-center justify-center gap-8 font-mono sm:gap-12">
         <h1 className="text-center text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl 2xl:text-6xl">
           Welcome to My Store!
