@@ -12,6 +12,7 @@ This project is built using NextJS, TypeScript, TailwindCSS, and integrates with
 - Usage
 - Project Structure
 - Contributing
+- Deployment
 
 ## Project Features
 
